@@ -51,5 +51,6 @@
 
 Adding comment to this file for testing
 Here is another comment added from the local repo
+This line will conflict with the one in the remote repo
     -->
 </project>
